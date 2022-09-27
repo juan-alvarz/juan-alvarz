@@ -66,6 +66,6 @@
 <h1 align='center'>Let's work together</h1>
 <div align="center">
 <a href="https://www.linkedin.com/in/juan-alvarez-8857aa18b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www .linkedin.com/in/juan-alvarez/" height="50" width="50" /></a>
-<a href="https://wa.me/3138495730" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" height="50" width="50"/></a>
+<a href="https://wa.me/573138495730" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" height="50" width="50"/></a>
 <a href="mailto:juanalvarez0925@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" height="50" width="60"></a>
 </div>
