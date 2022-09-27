@@ -56,6 +56,7 @@
 <br/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=juan-alvarz&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="juan-alvarz Github Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=frangiuliano&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="frangiulianoContributions">
 </div>
 
 <div align="center">
@@ -64,7 +65,7 @@
 
 <h1 align='center'>Let's work together</h1>
 <div align="center">
-<a href="https://www.linkedin.com/in/juan-alvarez-8857aa18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www .linkedin.com/in/juan-alvarez/" height="50" width="50" /></a>
-<a href="https://wa.me/3138495730" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" height="50" width="50"/></a>
-<a href="mailto:juanalvarez0925@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" height="50" width="60"></a>
+<a href="https://www.linkedin.com/in/juan-alvarez-8857aa18b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www .linkedin.com/in/juan-alvarez/" height="50" width="50" /></a>
+<a href="https://wa.me/3138495730" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" height="50" width="50"/></a>
+<a href="mailto:juanalvarez0925@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" height="50" width="60"></a>
 </div>
