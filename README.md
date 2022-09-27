@@ -5,7 +5,7 @@
 <!--
 <h1 align="center">Hello</h1>
 -->
-<h3 align='center'>|From 🇨🇴 to 🌍 with 💛|</h3>
+<h3 align='center'>| From 🇨🇴 to 🌍 with 💛 |</h3>
 <h1 align="center">Know me a little</h1>
  
  
